@@ -38,6 +38,7 @@ NoSQL: MongoDB
 ##
 
 Feel free to explore my repositories and connect with me 
+
  Email : shigamamey15@gmail.com
  
  LinkedIn : https://www.linkedin.com/in/ameyshigam
