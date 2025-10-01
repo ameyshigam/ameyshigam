@@ -9,7 +9,7 @@ Machine Learning & AI: Developing predictive models and exploring the realms of 
 
 Open Source Contributor: Actively contributing to projects that push the boundaries of technology and innovation.
 
-🔧 Technologies & Tools
+## 🔧 Technologies and tools
 
 Frontend: React.js, Vue.js, Next.js, HTML5, CSS, Tailwind CSS, Bootstrap
 
@@ -23,7 +23,7 @@ AI & NLP: Transformers, spaCy, OpenAI GPT, BERT
 
 DevOps & Tools: Docker, Kubernetes, Git, CI/CD pipelines
 
-🧠 Programming Languages
+## 🧠 Programming Languages
 
 JavaScript: React, Node.js
 
@@ -34,6 +34,8 @@ TypeScript: Frontend Development
 SQL: PostgreSQL, MySQL
 
 NoSQL: MongoDB
+
+##
 
 Feel free to explore my repositories and connect with me on LinkedIn
  or Twitter
